@@ -1,3 +1,4 @@
 # Predicting-Used-Car-Prices
-A supervised machine learning model built on linear regression and an exploratory analysis
+A supervised machine learning model built on linear regression and an exploratory analysis.
+
 For this project, my goal was to construct a predictive machine learning model based on multivariate linear regression to predict the price of used cars. I was supplied with a dataset (source unknown) of cars and their selling prices. The dataset also contained the following: make/model, year, registration, body style, engine type, engine volumem, and mileage. I relied on the information contained in registered vehicles to build my model. Python facilitated my data wrangling, exploratory visuals, as well as the linear model's training and testing. I make use of R to carry out statistical assumption testing, and Tableau to create interactive dashboards to serve as supplemental visual exploration. This work was completed as a Final Project for my data science certification from Entity Academy, facilitated by Woz-U. 
